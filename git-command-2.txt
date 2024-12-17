@@ -9,4 +9,4 @@ git commit -m ""					--> Commit file to local repository
 git log							--> Check file log history
 git diff <filename>					--> Check changes made to file with existing file
 git remove add origin <GitHub Repository URL>		--> Establish connection to the remote GitHub Repository
-git push origin master
+git push -u origin main					--> Push to main branch
